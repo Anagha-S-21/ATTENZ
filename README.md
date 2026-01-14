@@ -1,10 +1,10 @@
-📊 ASB Attendance Bot
+## 📊 ASB Attendance Bot
 
 A Telegram-based Attendance Management Bot that allows teachers to record and update student attendance directly into Google Sheets using an interactive chat interface.
 
 This project eliminates manual attendance entry and provides a fast, user-friendly workflow using Telegram.
 
-🚀 Features
+## 🚀 Features
 
 📅 Date Selection
 
@@ -46,7 +46,7 @@ Updates rows automatically if session already exists
 
 User-friendly flow control at every step
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python
 
@@ -58,7 +58,7 @@ OAuth2 Service Account
 
 Google Colab / Local Python
 
-📂 Project Structure
+## 📂 Project Structure
 ASB-Attendance-Bot/
 │
 ├── asb_attendance.py        # Main bot script
@@ -133,14 +133,14 @@ Enter absentees
 
 Attendance saved/updated in Google Sheets ✅
 
-🔐 Security Note
+## 🔐 Security Note
 
 ⚠️ Do NOT upload your credentials.json or bot token publicly.
 Add this to .gitignore:
 
 credentials.json
 
-🎯 Future Enhancements
+## 🎯 Future Enhancements
 
 Admin authentication
 
@@ -152,7 +152,8 @@ Export attendance as PDF/Excel
 
 Role-based access (teacher/admin)
 
-👨‍💻 Author
-
-ASB Attendance Bot
-Developed as an academic project for attendance automation using Telegram.
+## 👨‍💻 Author
+- [Amina S] (https://github.com/AminaZakkir)
+- [Anagha S] (http://github.com/Anagha-S-21)
+- [S Afreen Sainaba Fathima] (https://github.com/AfreenSainabaFathima)
+- [Abisha S A] 
