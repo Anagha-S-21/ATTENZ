@@ -142,13 +142,13 @@ credentials.json
 
 ## 🎯 Future Enhancements
 
-Admin authentication
+- Admin authentication
 
-Student-wise attendance reports
+- Student-wise attendance reports
 
-Monthly summary generation
+- Monthly summary generation
 
-Export attendance as PDF/Excel
+- Export attendance as PDF/Excel
 
 Role-based access (teacher/admin)
 
