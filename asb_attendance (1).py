@@ -20,7 +20,7 @@ import calendar # NEW import
 # import gspread.utils # Import gspread.utils for colnum_to_letter - This line is no longer needed
 
 # ---------------- CONFIG ----------------
-BOT_TOKEN = "8327191494:AAEwMoVUNm1HzJoNoU-b1a08iExoahjkqQI"
+BOT_TOKEN = "TOKEN HERE"
 SHEET_NAME = "Attendance"
 
 SESSIONS = ["1", "2", "3", "4", "5", "6"]
